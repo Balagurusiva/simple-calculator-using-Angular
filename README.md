@@ -1,4 +1,6 @@
 # CalculatorA
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/75660556/188266444-eb0845c2-d553-4b41-a483-89fab47f0a51.png">
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
